@@ -1,0 +1,11 @@
+// .error {
+//   background-color: red;
+// }
+$myColor: red;
+h1 {
+  color: $myColor;
+}
+.item{
+  display:inline-block;
+  flex-direction: row;
+}
